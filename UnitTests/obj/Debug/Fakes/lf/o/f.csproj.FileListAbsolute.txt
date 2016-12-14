@@ -1,0 +1,9 @@
+C:\temp\NEW\LearningFakes\UnitTests\obj\Debug\Fakes\lf\b\LearningFakes.Fakes.xml
+C:\temp\NEW\LearningFakes\UnitTests\obj\Debug\Fakes\lf\b\LearningFakes.Fakes.dll
+C:\temp\NEW\LearningFakes\UnitTests\obj\Debug\Fakes\lf\b\LearningFakes.Fakes.pdb
+C:\temp\NEW\LearningFakes\UnitTests\obj\Debug\Fakes\lf\b\LearningFakes.dll
+C:\temp\NEW\LearningFakes\UnitTests\obj\Debug\Fakes\lf\b\Microsoft.QualityTools.Testing.Fakes.dll
+C:\temp\NEW\LearningFakes\UnitTests\obj\Debug\Fakes\lf\b\LearningFakes.pdb
+C:\temp\NEW\LearningFakes\UnitTests\obj\Debug\Fakes\lf\o\f.csprojResolveAssemblyReference.cache
+C:\temp\NEW\LearningFakes\UnitTests\obj\Debug\Fakes\lf\o\LearningFakes.Fakes.dll
+C:\temp\NEW\LearningFakes\UnitTests\obj\Debug\Fakes\lf\o\LearningFakes.Fakes.pdb
