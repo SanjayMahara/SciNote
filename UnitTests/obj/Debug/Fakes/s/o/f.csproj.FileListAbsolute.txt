@@ -1,7 +1,0 @@
-C:\temp\NEW\LearningFakes\UnitTests\obj\Debug\Fakes\s\b\System.4.0.0.0.Fakes.xml
-C:\temp\NEW\LearningFakes\UnitTests\obj\Debug\Fakes\s\b\System.4.0.0.0.Fakes.dll
-C:\temp\NEW\LearningFakes\UnitTests\obj\Debug\Fakes\s\b\System.4.0.0.0.Fakes.pdb
-C:\temp\NEW\LearningFakes\UnitTests\obj\Debug\Fakes\s\b\Microsoft.QualityTools.Testing.Fakes.dll
-C:\temp\NEW\LearningFakes\UnitTests\obj\Debug\Fakes\s\o\f.csprojResolveAssemblyReference.cache
-C:\temp\NEW\LearningFakes\UnitTests\obj\Debug\Fakes\s\o\System.4.0.0.0.Fakes.dll
-C:\temp\NEW\LearningFakes\UnitTests\obj\Debug\Fakes\s\o\System.4.0.0.0.Fakes.pdb

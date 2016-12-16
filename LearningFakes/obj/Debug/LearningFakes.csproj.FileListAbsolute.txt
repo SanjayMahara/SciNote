@@ -1,5 +1,0 @@
-C:\temp\NEW\LearningFakes\LearningFakes\bin\Debug\LearningFakes.dll
-C:\temp\NEW\LearningFakes\LearningFakes\bin\Debug\LearningFakes.pdb
-C:\temp\NEW\LearningFakes\LearningFakes\obj\Debug\LearningFakes.csprojResolveAssemblyReference.cache
-C:\temp\NEW\LearningFakes\LearningFakes\obj\Debug\LearningFakes.dll
-C:\temp\NEW\LearningFakes\LearningFakes\obj\Debug\LearningFakes.pdb
