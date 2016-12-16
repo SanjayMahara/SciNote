@@ -24,17 +24,17 @@ namespace UnitTests
 
         [TestMethod]
         public void TestLastUpgradeDate()
-        {
-            using (ShimsContext.Create())
-            {
-                System.Fakes.ShimDateTime.NowGet =
-                () =>
-                { return new DateTime(2010, 11, 5); };
-                var fakeTime = DateTime.Now; // It is always DateTime(2010, 11, 5); 
-                Console.WriteLine(fakeTime.ToShortDateString());
-            }
-            var correctTime = DateTime.Now;
-            Console.WriteLine(correctTime.ToShortDateString());
+        {            
+            //using (ShimsContext.Create())
+            //{
+            //    System.Fakes.ShimDateTime.NowGet =
+            //    () =>
+            //    { return new DateTime(2010, 11, 5); };
+            //    var fakeTime = DateTime.Now; // It is always DateTime(2010, 11, 5); 
+            //    Console.WriteLine(fakeTime.ToShortDateString());
+            //}
+            //var correctTime = DateTime.Now;
+            //Console.WriteLine(correctTime.ToShortDateString());
         }
     }
 }
