@@ -16,7 +16,7 @@
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
-**/bin
+bin/
 
 # Build results
 
@@ -55,30 +55,32 @@ project.fragment.lock.json
 artifacts/
 **/Properties/launchSettings.json
 
+*.obj
+*.exe
+*.pdb
+*.user
+*.aps
+*.pch
+*.vspscc
 *_i.c
 *_p.c
-*_i.h
-*.ilk
-*.meta
-*.obj
-*.pch
-*.pdb
-*.pgc
-*.pgd
-*.rsp
-*.sbr
+*.ncb
+*.suo
 *.tlb
-*.tli
 *.tlh
-*.tmp
-*.tmp_proj
+*.bak
+*.cache
+*.ilk
 *.log
-*.vspscc
-*.vssscc
-.builds
-*.pidb
-*.svclog
-*.scc
+[Bb]in
+[Dd]ebug*/
+[Rr]elease*/
+_ReSharper*/
+[Tt]est[Rr]esult*
+***\bin**
+***\obj**
+*/bin/*
+*/obj/*
 
 # Chutzpah Test files
 _Chutzpah*
