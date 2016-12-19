@@ -1,11 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.Serialization;
+using System.ServiceModel;
 using System.Text;
 
 namespace LearningFakes
 {
-    public class UpgradeService : IUpgradeService  
+    // NOTE: You can use the "Rename" command on the "Refactor" menu to change the class name "ServiceTest" in both code and config file together.
+    public class UpgradeService : IUpgradeService
     {
         /// <summary>
         /// Dummy functionlity always returns 5.
@@ -15,7 +18,7 @@ namespace LearningFakes
         public int currentSWVersion(int DeviceID)
         {
             // Check the version and return the version.
-            
+
             return 5;
         }
 
@@ -27,7 +30,7 @@ namespace LearningFakes
         public DateTime lastUpgradeDate(int DeviceID)
         {
             // The datetime is dependent on the device in field.
-            return DateTime.Now;            
+            return DateTime.Now;
         }
 
         public bool upgradeDevice(int DeviceID)
